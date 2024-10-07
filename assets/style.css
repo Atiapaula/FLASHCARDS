@@ -41,7 +41,7 @@ body {
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 4vw;
+    font-size: 10vw;
     backface-visibility: hidden;
 }
 
