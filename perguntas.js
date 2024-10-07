@@ -34,3 +34,10 @@ criaCartao(
     'Drê'
 
     )
+
+criaCartao(
+    'Curso Chato',
+    'Qual o curso mais chato do mundo?',
+    'Concerteza é esse'
+
+    )
