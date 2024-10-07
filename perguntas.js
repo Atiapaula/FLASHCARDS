@@ -21,3 +21,9 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Matemática',
+    'Nome das quatro operações fundamentais',
+    'Adição, Subtração, Multiplicação e Divisão'
+)
