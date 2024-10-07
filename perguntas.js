@@ -27,3 +27,8 @@ criaCartao(
     'Nome das quatro operações fundamentais',
     'Adição, Subtração, Multiplicação e Divisão'
 )
+
+criaCartao(
+    'Best',
+    'Quem é a minha loira favorita?',
+    'Drê'
