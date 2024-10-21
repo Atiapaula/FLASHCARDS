@@ -34,3 +34,10 @@ criaCartao(
     'Qual o curso mais chato do mundo?',
     'Concerteza é esse'
     )
+
+
+criaCartao(
+    'Inglês',
+    'Como falar bom dia em inglês?',
+    'Good morning!'
+    )
