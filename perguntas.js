@@ -28,16 +28,9 @@ criaCartao(
     'Adição, Subtração, Multiplicação e Divisão'
 )
 
-criaCartao(
-    'Best',
-    'Quem é a minha loira favorita?',
-    'Drê'
-
-    )
 
 criaCartao(
     'Curso Chato',
     'Qual o curso mais chato do mundo?',
     'Concerteza é esse'
-
     )
